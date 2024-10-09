@@ -1,2 +1,1 @@
-# htmlemail
-html-email
+https://ogreogles.github.io/htmlemail
